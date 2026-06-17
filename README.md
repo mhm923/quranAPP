@@ -1,0 +1,2 @@
+# quranAPP
+OSMANIYAQURANAPP
