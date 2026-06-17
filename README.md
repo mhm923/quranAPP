@@ -1,2 +1,2 @@
-# quranAPP
+# quran-osmanya-app
 OSMANIYAQURANAPP
